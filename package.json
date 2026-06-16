@@ -1,0 +1,21 @@
+{
+  "name": "google-news-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to fetch the latest Google News headlines",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "gnews": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "google-news",
+    "rss",
+    "news"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
